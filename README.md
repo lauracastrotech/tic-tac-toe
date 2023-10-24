@@ -1,4 +1,4 @@
-Objectives
+Objectives -- use screen shot of board and add image below 
 perfecting the student's skills in using Python for solving complex problems;
 integrating programming techniques in one program consisting of many various parts.
 
